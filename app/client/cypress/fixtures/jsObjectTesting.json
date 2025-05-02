@@ -30132,7 +30132,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30190,7 +30190,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30248,7 +30248,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30306,7 +30306,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30364,7 +30364,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30422,7 +30422,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30480,7 +30480,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30538,7 +30538,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30596,7 +30596,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30654,7 +30654,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30712,7 +30712,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30770,7 +30770,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30828,7 +30828,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30886,7 +30886,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -30944,7 +30944,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31002,7 +31002,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31060,7 +31060,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31118,7 +31118,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31176,7 +31176,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31234,7 +31234,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31292,7 +31292,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31350,7 +31350,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31416,7 +31416,7 @@
           "pluginSpecifiedTemplates": [{ "value": true }],
           "formData": { "apiContentType": "none" }
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [],
         "isValid": true,
         "invalids": [],
@@ -31485,7 +31485,7 @@
           "pluginSpecifiedTemplates": [{ "value": true }],
           "formData": { "apiContentType": "none" }
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [],
         "isValid": true,
         "invalids": [],
@@ -31551,7 +31551,7 @@
           "pluginSpecifiedTemplates": [{ "value": true }],
           "formData": { "apiContentType": "none" }
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [],
         "isValid": true,
         "invalids": [],
@@ -31617,7 +31617,7 @@
           "pluginSpecifiedTemplates": [{ "value": true }],
           "formData": { "apiContentType": "none" }
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [],
         "isValid": true,
         "invalids": [],
@@ -31675,7 +31675,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31733,7 +31733,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31791,7 +31791,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31849,7 +31849,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31907,7 +31907,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -31965,7 +31965,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -32023,7 +32023,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -32081,7 +32081,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -32139,7 +32139,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -32197,7 +32197,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -32255,7 +32255,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": true,
+        "runBehaviour": "ON_PAGE_LOAD",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
@@ -32313,7 +32313,7 @@
           "selfReferencingDataPaths": [],
           "jsArguments": []
         },
-        "executeOnLoad": false,
+        "runBehaviour": "MANUAL",
         "dynamicBindingPathList": [{ "key": "body" }],
         "isValid": true,
         "invalids": [],
