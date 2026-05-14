@@ -73,7 +73,7 @@ __metadata:
     "@xstyled/styled-components": ^3.8.0
     "@xstyled/system": ^3.8.1
     csstype: ^3.1.2
-    date-fns: ^2.29.3
+    date-fns: ^4.1.0
     overlayscrollbars: ^2.7.2
     overlayscrollbars-react: ^0.5.6
     rc-select: ^14.4.3
@@ -17310,7 +17310,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"date-fns@npm:^2.0.1, date-fns@npm:^2.24.0, date-fns@npm:^2.29.3":
+"date-fns@npm:^2.0.1, date-fns@npm:^2.24.0":
   version: 2.30.0
   resolution: "date-fns@npm:2.30.0"
   dependencies:
