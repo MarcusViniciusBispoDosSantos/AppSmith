@@ -162,7 +162,7 @@
     "lottie-web": "^5.7.4",
     "mammoth": "^1.5.1",
     "memoize-one": "^6.0.0",
-    "micro-memoize": "^4.0.10",
+    "micro-memoize": "^5.1.1",
     "microdiff": "^1.4.0",
     "mixpanel-browser": "^2.55.1",
     "moment": "2.29.4",
