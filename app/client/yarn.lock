@@ -80,7 +80,7 @@ __metadata:
     rc-table: ^7.35.2
     rc-tooltip: ^5.3.1
     react-datepicker: ^4.10.0
-    react-toastify: 9.0.3
+    react-toastify: 11.1.0
   languageName: unknown
   linkType: soft
 
@@ -15996,17 +15996,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clsx@npm:^1.1.0, clsx@npm:^1.1.1, clsx@npm:^1.2.1":
+"clsx@npm:^1.1.0, clsx@npm:^1.2.1":
   version: 1.2.1
   resolution: "clsx@npm:1.2.1"
   checksum: 30befca8019b2eb7dbad38cff6266cf543091dae2825c856a62a8ccf2c3ab9c2907c4d12b288b73101196767f66812365400a227581484a05f968b0307cfaf12
   languageName: node
   linkType: hard
 
-"clsx@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "clsx@npm:2.0.0"
-  checksum: a2cfb2351b254611acf92faa0daf15220f4cd648bdf96ce369d729813b85336993871a4bf6978ddea2b81b5a130478339c20d9d0b5c6fc287e5147f0c059276e
+"clsx@npm:^2.0.0, clsx@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "clsx@npm:2.1.1"
+  checksum: acd3e1ab9d8a433ecb3cc2f6a05ab95fe50b4a3cfc5ba47abb6cbf3754585fcb87b84e90c822a1f256c4198e3b41c7f6c391577ffc8678ad587fc0976b24fd57
   languageName: node
   linkType: hard
 
@@ -30436,15 +30436,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-toastify@npm:9.0.3":
-  version: 9.0.3
-  resolution: "react-toastify@npm:9.0.3"
+"react-toastify@npm:11.1.0":
+  version: 11.1.0
+  resolution: "react-toastify@npm:11.1.0"
   dependencies:
-    clsx: ^1.1.1
+    clsx: ^2.1.1
   peerDependencies:
-    react: ">=16"
-    react-dom: ">=16"
-  checksum: 4beacd1dbfcdcd70d70c6ce12f85b9bab5554b7659262654283efc8813ad55dd595a27faf359da2061249dc8eea563cc80139be95a03c75f40fccb3c34de2349
+    react: ^18 || ^19
+    react-dom: ^18 || ^19
+  checksum: 93a17b4b568f2fba5553c328f95897c0e96752dc6fe9422163d8c2c40f160a02a87b7a486518fa7a1a526fb0e5ff44de1e53c255cd3a39cd36073606b7826a42
   languageName: node
   linkType: hard
 
