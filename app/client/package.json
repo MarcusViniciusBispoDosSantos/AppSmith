@@ -369,7 +369,7 @@
     "jest-styled-components": "^7.0.8",
     "jest-watch-typeahead": "^1.0.0",
     "json5": "^2.2.3",
-    "knip": "^5.30.2",
+    "knip": "^6.15.0",
     "lint-staged": "^14.0.1",
     "mini-css-extract-plugin": "^2.4.5",
     "msw": "^0.28.0",
