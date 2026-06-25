@@ -13598,7 +13598,7 @@ __metadata:
     "@svgr/core": ^8.1.0
     "@svgr/plugin-jsx": ^8.1.0
     fast-glob: ^3.3.2
-    figmagic: ^4.5.13
+    figmagic: ^4.6.0
     fs-extra: ^11.2.0
     svgo: ^3.2.0
   peerDependencies:
@@ -19821,12 +19821,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"figmagic@npm:^4.5.13":
-  version: 4.5.13
-  resolution: "figmagic@npm:4.5.13"
+"figmagic@npm:^4.6.0":
+  version: 4.6.0
+  resolution: "figmagic@npm:4.6.0"
   bin:
     figmagic: build/index.js
-  checksum: 59e7efa1272a18932f9c2417299bb71af7ad49fbb2b5e7ad7cd04d4bd9daa4b6ee134773556cb4e357f98a73598243c1170274b72c89de70c8368d523dc5fd0b
+  checksum: 8eec0ad6f2efdffa3310b5dd700d2ed837164a88baf99ec54677f63b123abf495ab6a5f24236f26cd26450e8fd2e2d733bf86f2cd74db5de3cb606dedc908756
   languageName: node
   linkType: hard
 
