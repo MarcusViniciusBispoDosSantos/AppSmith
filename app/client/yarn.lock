@@ -13869,7 +13869,7 @@ __metadata:
     mammoth: ^1.5.1
     memoize-one: ^6.0.0
     micro-memoize: ^4.0.10
-    microdiff: ^1.4.0
+    microdiff: ^1.5.0
     mini-css-extract-plugin: ^2.4.5
     mixpanel-browser: ^2.55.1
     moment: 2.29.4
@@ -25258,10 +25258,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"microdiff@npm:^1.4.0":
-  version: 1.4.0
-  resolution: "microdiff@npm:1.4.0"
-  checksum: 4cae2ec4d0540b65656837a7c47a17d6428a1be2909d268a579921183c9c21a86e0dfa0c8ade8c60f9127887783a17d54ce7be16d5556708a0e58312bca8803d
+"microdiff@npm:^1.5.0":
+  version: 1.5.0
+  resolution: "microdiff@npm:1.5.0"
+  checksum: 03d9d6885c9b30cdfd7cab0eb882c374d1dafeeba277de215af3e6d55b631afb7a6241469c6ce8c9d8a119ae49fc4f4d892d935c0b426333046bf2ef6ab2cbf4
   languageName: node
   linkType: hard
 
