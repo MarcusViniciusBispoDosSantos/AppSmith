@@ -338,7 +338,7 @@
     "cypress-wait-until": "^1.7.2",
     "cypress-xpath": "^1.6.0",
     "diff": "^5.0.0",
-    "dotenv": "^10.0.0",
+    "dotenv": "^17.4.2",
     "dotenv-expand": "^5.1.0",
     "eslint": "^8.51.0",
     "eslint-config-prettier": "^9.0.0",
