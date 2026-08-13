@@ -20,7 +20,7 @@
     "@storybook/addon-measure": "8.2.7",
     "@storybook/addon-outline": "8.2.7",
     "@storybook/addon-toolbars": "8.2.7",
-    "@storybook/addon-viewport": "8.2.7",
+    "@storybook/addon-viewport": "9.0.8",
     "@storybook/blocks": "8.2.7",
     "@storybook/components": "8.2.7",
     "@storybook/core-events": "8.2.7",

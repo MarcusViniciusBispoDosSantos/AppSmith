@@ -3020,7 +3020,7 @@ __metadata:
     "@storybook/addon-measure": 8.2.7
     "@storybook/addon-outline": 8.2.7
     "@storybook/addon-toolbars": 8.2.7
-    "@storybook/addon-viewport": 8.2.7
+    "@storybook/addon-viewport": 9.0.8
     "@storybook/blocks": 8.2.7
     "@storybook/components": 8.2.7
     "@storybook/core-events": 8.2.7
@@ -9980,14 +9980,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-viewport@npm:8.2.7":
-  version: 8.2.7
-  resolution: "@storybook/addon-viewport@npm:8.2.7"
-  dependencies:
-    memoizerific: ^1.11.3
-  peerDependencies:
-    storybook: ^8.2.7
-  checksum: 573ba010bd763ebc99aebd0de6bf672643f3afb9419d89f61d3ec2657ff458ae97f628df9faf0c5397bc0e25866b6e1f6dfc1ab4b4a9743d58bbd7d0168ec6b1
+"@storybook/addon-viewport@npm:9.0.8":
+  version: 9.0.8
+  resolution: "@storybook/addon-viewport@npm:9.0.8"
+  checksum: e97a3e3edfa0a21130a1118b27319aa65ce5f74ca84890c0ffc01a306785bfa4917a586a97292dadde088f6d4b107e10cc56d357733a813e7027b80b148c8604
   languageName: node
   linkType: hard
 
