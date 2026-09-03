@@ -145,7 +145,7 @@
     "focus-trap-react": "^8.9.2",
     "fuse.js": "^3.4.5",
     "fusioncharts": "^3.18.0",
-    "graphql": "^16.8.1",
+    "graphql": "^17.0.2",
     "history": "^4.10.1",
     "interweave": "^12.7.2",
     "interweave-autolink": "^4.4.2",

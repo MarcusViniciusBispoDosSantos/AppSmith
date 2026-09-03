@@ -13839,7 +13839,7 @@ __metadata:
     fs-extra: ^10.0.0
     fuse.js: ^3.4.5
     fusioncharts: ^3.18.0
-    graphql: ^16.8.1
+    graphql: ^17.0.2
     history: ^4.10.1
     html-webpack-plugin: ^5.5.0
     husky: ^8.0.0
@@ -20989,10 +20989,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:^16.8.1":
-  version: 16.8.1
-  resolution: "graphql@npm:16.8.1"
-  checksum: 8d304b7b6f708c8c5cc164b06e92467dfe36aff6d4f2cf31dd19c4c2905a0e7b89edac4b7e225871131fd24e21460836b369de0c06532644d15b461d55b1ccc0
+"graphql@npm:^17.0.2":
+  version: 17.0.2
+  resolution: "graphql@npm:17.0.2"
+  checksum: 4520cdb805a7c0211a45cbed28c0f10bbbd412ed97011a00808872a1abb7167b09d400f065a261b9c85c03ec131ba856910d918de844bb48299dc8b1f08b7805
   languageName: node
   linkType: hard
 
