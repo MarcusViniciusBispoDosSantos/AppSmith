@@ -13991,7 +13991,7 @@ __metadata:
     webpack-retry-chunk-load-plugin: ^3.1.1
     workbox-webpack-plugin: ^7.3.0
     xlsx: "https://cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz"
-    yjs: ^13.5.12
+    yjs: ^13.6.32
     zipcelx: ^1.6.2
   languageName: unknown
   linkType: soft
@@ -24183,12 +24183,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lib0@npm:^0.2.41":
-  version: 0.2.42
-  resolution: "lib0@npm:0.2.42"
+"lib0@npm:^0.2.99":
+  version: 0.2.117
+  resolution: "lib0@npm:0.2.117"
   dependencies:
     isomorphic.js: ^0.2.4
-  checksum: 35df110c3e4c0df5e04c12d242312144169612ab489cd9fc11cdd142e892f5c52933c957411f13a2b149547e6918c71f54903742cf6f87c7cc42fbb92b9467b0
+  bin:
+    0ecdsa-generate-keypair: bin/0ecdsa-generate-keypair.js
+    0gentesthtml: bin/gentesthtml.js
+    0serve: bin/0serve.js
+  checksum: 948a6bb292cc643bcaea948b82f72a05edb83ff172803ba0ebdbf87361f6446d2877b61611f20ccd377c7bfa0453925b27ea75db8b694abab84216c6ca50325c
   languageName: node
   linkType: hard
 
@@ -36176,12 +36180,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yjs@npm:^13.5.12":
-  version: 13.5.12
-  resolution: "yjs@npm:13.5.12"
+"yjs@npm:^13.6.32":
+  version: 13.6.32
+  resolution: "yjs@npm:13.6.32"
   dependencies:
-    lib0: ^0.2.41
-  checksum: 3faf92344bfa6848b879cdd42d4c4d4b9273c9339c88f91b5d100215873a748d7429590ce023f1007c4b9e3b867f58b0798d24bdef2545aafcb6fc9312719747
+    lib0: ^0.2.99
+  checksum: 5b146dcb471ec6ac9aab2b617786f660bc2233c896bfbcc1e65c67efb06f3bfd52acf2519d3519d72b108235da1895b8350b44f2b3a2ecfa80d0f45874805071
   languageName: node
   linkType: hard
 

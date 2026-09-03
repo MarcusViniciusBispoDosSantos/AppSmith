@@ -247,7 +247,7 @@
     "uuid": "^9.0.0",
     "validate-color": "^2.2.4",
     "web-vitals": "3.5.2",
-    "yjs": "^13.5.12",
+    "yjs": "^13.6.32",
     "zipcelx": "^1.6.2"
   },
   "browserslist": [
