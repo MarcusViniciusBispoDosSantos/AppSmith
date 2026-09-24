@@ -8527,6 +8527,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@remix-run/route-pattern@npm:^0.22.1":
+  version: 0.22.1
+  resolution: "@remix-run/route-pattern@npm:0.22.1"
+  checksum: a1c2237dedf5fccc2d64ad3b8919ae262cd01446e9bb0f2c041c8e952b7c0c8aaaf67468bc56818d269569bc18b8e915b32bd014bdeda051e011caf1d079046f
+  languageName: node
+  linkType: hard
+
 "@rollup/plugin-babel@npm:^5.2.0":
   version: 5.3.1
   resolution: "@rollup/plugin-babel@npm:5.3.1"
@@ -13930,7 +13937,7 @@ __metadata:
     react-redux: ^7.2.4
     react-refresh: ^0.11.0
     react-responsive: ^9.0.0-beta.3
-    react-router: ^5.1.2
+    react-router: ^8.4.0
     react-router-dom: ^5.1.2
     react-spring: ^9.4.0
     react-table: ^7.0.0
@@ -16446,6 +16453,13 @@ __metadata:
   version: 1.1.3
   resolution: "convert-source-map@npm:1.1.3"
   checksum: 0ed6bdecd330fd05941b417b63ebc9001b438f6d6681cd9a068617c3d4b649794dc35c95ba239d0a01f0b9499912b9e0d0d1b7c612e3669c57c65ce4bbc8fdd8
+  languageName: node
+  linkType: hard
+
+"cookie-es@npm:^3.1.1":
+  version: 3.1.1
+  resolution: "cookie-es@npm:3.1.1"
+  checksum: 2b196bf591a177a3602c26eb5a7253b6e08176262158d02c7dedb30903b7ffda83943b9099c25c739acedfaed143add2a39209522712b59e5b447e28c7c21469
   languageName: node
   linkType: hard
 
@@ -30258,7 +30272,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router@npm:5.2.0, react-router@npm:^5.1.2":
+"react-router@npm:5.2.0":
   version: 5.2.0
   resolution: "react-router@npm:5.2.0"
   dependencies:
@@ -30275,6 +30289,22 @@ __metadata:
   peerDependencies:
     react: ">=15"
   checksum: 6fc908729110a65a5676a9e41333e0f511a3c0ff84c93c0dc704330cf3e02124c93aaeab8031b0e2c71712390d9278fff848eeebfbdda36dca3201142f309973
+  languageName: node
+  linkType: hard
+
+"react-router@npm:^8.4.0":
+  version: 8.4.0
+  resolution: "react-router@npm:8.4.0"
+  dependencies:
+    "@remix-run/route-pattern": ^0.22.1
+    cookie-es: ^3.1.1
+  peerDependencies:
+    react: ">=19.2.7"
+    react-dom: ">=19.2.7"
+  peerDependenciesMeta:
+    react-dom:
+      optional: true
+  checksum: eeedef05f1ac6b40e556152e3cbab57438f216366fede7b67c8231ce60b947a1ba27e462cb05b0804e320626aea860176d13a9f1e5d8c0061de178f388612e33
   languageName: node
   linkType: hard
 
