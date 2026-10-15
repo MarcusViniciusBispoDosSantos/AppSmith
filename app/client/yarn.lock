@@ -606,20 +606,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@aws-sdk/lib-storage@npm:^3.622.0":
-  version: 3.622.0
-  resolution: "@aws-sdk/lib-storage@npm:3.622.0"
+"@aws-sdk/lib-storage@npm:^3.1149.0":
+  version: 3.1149.0
+  resolution: "@aws-sdk/lib-storage@npm:3.1149.0"
   dependencies:
-    "@smithy/abort-controller": ^3.1.1
-    "@smithy/middleware-endpoint": ^3.1.0
-    "@smithy/smithy-client": ^3.1.12
+    "@smithy/core": ^3.35.2
+    "@smithy/types": ^4.19.0
     buffer: 5.6.0
     events: 3.3.0
     stream-browserify: 3.0.0
     tslib: ^2.6.2
   peerDependencies:
-    "@aws-sdk/client-s3": ^3.622.0
-  checksum: 0c8a73f365e88e843296b7b4314284f10e3bbc5660a519b53305ddb5f78bbfd8d22d649307b44afba214d4746b7dbb3b4a6aa9197cc4727adb26344b77865139
+    "@aws-sdk/client-s3": ^3.1149.0
+  checksum: c863cece1aec31829a0afee872fa12dce66a654b2d42369f03fc2895e0e50c849607c099a658898d27ff6071d635b8981c286822db7a2cf9030e55e011d89a53
   languageName: node
   linkType: hard
 
@@ -9339,6 +9338,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@smithy/core@npm:^3.35.2":
+  version: 3.36.0
+  resolution: "@smithy/core@npm:3.36.0"
+  dependencies:
+    "@smithy/types": ^4.19.0
+    tslib: ^2.6.2
+  checksum: c3bfc327af466adfe6d035141f0fd2e31dbd2a2cd43a0e3b5da1c4836e6247c04ffe15080591d9b2ba03d0a3146a12e708970bf93e1ac6e6e260f9b6852d12a1
+  languageName: node
+  linkType: hard
+
 "@smithy/credential-provider-imds@npm:^3.2.0":
   version: 3.2.0
   resolution: "@smithy/credential-provider-imds@npm:3.2.0"
@@ -9678,6 +9687,15 @@ __metadata:
   dependencies:
     tslib: ^2.6.2
   checksum: 29bb5f83c41e32f8d4094a2aba2d3dfbd763ab5943784a700f3fa22df0dcf0ccac1b1907f7a87fbb9f6f2269fcd4750524bcb48f892249e200ffe397c0981309
+  languageName: node
+  linkType: hard
+
+"@smithy/types@npm:^4.19.0":
+  version: 4.19.0
+  resolution: "@smithy/types@npm:4.19.0"
+  dependencies:
+    tslib: ^2.6.2
+  checksum: fddadfb478311d1b6c0868a7089f90cf79e2259ea5e525c854fbf5b220338616e8b6315fa4901d03ec7ebae5d60d25f651b1f97bc0e5023a43a9936e880e7310
   languageName: node
   linkType: hard
 
@@ -13653,7 +13671,7 @@ __metadata:
     "@appsmith/wds-headless": "workspace:^"
     "@appsmith/wds-theming": "workspace:^"
     "@aws-sdk/client-s3": ^3.622.0
-    "@aws-sdk/lib-storage": ^3.622.0
+    "@aws-sdk/lib-storage": ^3.1149.0
     "@axe-core/playwright": ^4.11.1
     "@babel/core": ^7.26.10
     "@babel/standalone": ^7.26.10
