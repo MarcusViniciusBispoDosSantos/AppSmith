@@ -9181,7 +9181,7 @@ __metadata:
     rollup: ^2.79.2
     rollup-plugin-generate-package-json: ^3.2.0
     rollup-plugin-peer-deps-external: ^2.2.4
-    rollup-plugin-typescript2: ^0.32.0
+    rollup-plugin-typescript2: ^0.37.0
     ts-jest: 29.1.0
     typescript: ^5.5.4
     unescape-js: ^1.1.4
@@ -9200,7 +9200,7 @@ __metadata:
     rollup: ^2.79.2
     rollup-plugin-generate-package-json: ^3.2.0
     rollup-plugin-peer-deps-external: ^2.2.4
-    rollup-plugin-typescript2: ^0.32.0
+    rollup-plugin-typescript2: ^0.37.0
     ts-jest: ^29.1.0
     typescript: ^5.5.4
   languageName: unknown
@@ -31419,19 +31419,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup-plugin-typescript2@npm:^0.32.0":
-  version: 0.32.1
-  resolution: "rollup-plugin-typescript2@npm:0.32.1"
+"rollup-plugin-typescript2@npm:^0.37.0":
+  version: 0.37.0
+  resolution: "rollup-plugin-typescript2@npm:0.37.0"
   dependencies:
     "@rollup/pluginutils": ^4.1.2
     find-cache-dir: ^3.3.2
     fs-extra: ^10.0.0
-    resolve: ^1.20.0
-    tslib: ^2.4.0
+    semver: ^7.5.4
+    tslib: ^2.6.2
   peerDependencies:
     rollup: ">=1.26.3"
     typescript: ">=2.4.0"
-  checksum: f41ab63ad1e4d21ec99fbf4a367abdf29ef95c41fd0a5612f2b60a8619f5fe633f75982bfbaf8fe9632bddfb6730ff9cb38be77d82561088168fcaccd2cd1e85
+  checksum: 650a8a5fe821eb9911aa74156df648bff3d5767fb3d9ff323f1ac1b42bbc576615600996715372274eb1fa3c951c359b7b575dd116aadccd0720e757cba56360
   languageName: node
   linkType: hard
 
