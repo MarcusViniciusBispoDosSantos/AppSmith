@@ -5,7 +5,7 @@ FROM caddy:builder-alpine AS caddybuilder
 RUN xcaddy build \
   --with github.com/mholt/caddy-ratelimit
 
-FROM ubuntu:24.04
+FROM ubuntu:25.10
 
 LABEL maintainer="tech@appsmith.com"
 
