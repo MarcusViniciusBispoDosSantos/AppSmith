@@ -3028,7 +3028,7 @@ __metadata:
     "@storybook/preset-create-react-app": 8.2.7
     "@storybook/react-vite": 8.2.7
     "@storybook/test-runner": ^0.19.1
-    "@storybook/theming": 8.2.7
+    "@storybook/theming": 8.6.14
     "@vitejs/plugin-react": ^4.3.1
     chromatic: ^11.3.0
     glob: ^11.0.0
@@ -10328,21 +10328,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/theming@npm:8.2.7":
-  version: 8.2.7
-  resolution: "@storybook/theming@npm:8.2.7"
-  peerDependencies:
-    storybook: ^8.2.7
-  checksum: 774d435d37b9dc8573696f71e6f8df35239e4e44b6a6f1ed639743d0b908b7e48d47ef85ee8aeebe715cd9de844953aadf2b0ef7a3d8852851c35341b7e0ff7f
-  languageName: node
-  linkType: hard
-
-"@storybook/theming@npm:^8.2.7":
-  version: 8.6.7
-  resolution: "@storybook/theming@npm:8.6.7"
+"@storybook/theming@npm:8.6.14, @storybook/theming@npm:^8.2.7":
+  version: 8.6.14
+  resolution: "@storybook/theming@npm:8.6.14"
   peerDependencies:
     storybook: ^8.2.0 || ^8.3.0-0 || ^8.4.0-0 || ^8.5.0-0 || ^8.6.0-0
-  checksum: 747a2377df65d5f0962dc8606d06247ad89fb7ecabab0bd9611055d599b5bd0fa15769e4c76e948ae34ae232ba756bf6795ccb3467b1adf35ff961db7350f4de
+  checksum: 6936ea3348968fe598ad47421c11a78c6ee2ce62336ea1ce9cb8257e9faa2553d3ac3e443f8a36d35a41b0d60eb169231516649c710582ec68fdead4f23ffc0e
   languageName: node
   linkType: hard
 
