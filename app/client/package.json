@@ -335,7 +335,7 @@
     "cypress-real-events": "^1.8.1",
     "cypress-tags": "^1.1.2",
     "cypress-terminal-report": "^5.3.6",
-    "cypress-wait-until": "^1.7.2",
+    "cypress-wait-until": "^3.0.2",
     "cypress-xpath": "^1.6.0",
     "diff": "^5.0.0",
     "dotenv": "^10.0.0",
