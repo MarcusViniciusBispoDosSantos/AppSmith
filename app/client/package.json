@@ -106,7 +106,7 @@
     "@types/react-window-infinite-loader": "^1.0.9",
     "@types/web": "^0.0.99",
     "@uppy/core": "^1.16.0",
-    "@uppy/dashboard": "^1.16.0",
+    "@uppy/dashboard": "^6.0.3",
     "@uppy/google-drive": "^1.5.22",
     "@uppy/image-editor": "^0.2.4",
     "@uppy/onedrive": "^1.1.22",
